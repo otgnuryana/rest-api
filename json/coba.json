@@ -1,0 +1,14 @@
+{
+    "nama" : "Nuryana",
+    "nrp" : "928098292",
+    "umur" : 18,
+    "lulus" : true,
+    "hobby" : [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing" : {
+        "dosen" : "Sandhika Galih",
+        "penasihat" : "Angga Risky"
+    }
+}
